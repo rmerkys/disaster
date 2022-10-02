@@ -1,0 +1,88 @@
+.blacktextwithbiglogo {
+    margin: auto;
+    width: 1400px;
+    height: 596px;
+    background: #1C1C1C 0% 0% no-repeat padding-box;
+    display: flex;
+}
+
+.halflogo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 213px;
+    margin-bottom: 213px;
+}
+
+.halflogo img {
+    margin-left: 210px;
+    width: 389px;
+    height: 169px;
+}
+
+.biglogotext {
+    margin-left: 168px;
+    margin-top: 90px;
+    margin-bottom: 89px;
+    margin-right: 169px;
+    display: flex;
+    flex-direction: column;
+}
+
+.biglogotextfirstpart p:nth-of-type(1) {
+    color: white;
+    margin-bottom: 27px;
+    font-size: 30px;
+}
+
+.biglogotextfirstpart img {
+    width: 200px;
+    height: 2px;
+}
+
+.biglogotextfirstpart p:nth-of-type(2) {
+    margin-top: 27px;
+    margin-bottom: 43px;
+    color: white;
+    text-align: left;
+    font-size: 14px;
+}
+
+.biglogotextsecondpart {
+    display: flex;
+}
+
+.biglogotextsecondpart img {
+    margin-right: 20px;
+    width: 50px;
+    height: 50px;
+}
+
+.biglogotextsecondpart div p {
+    color: white;
+    text-align: justify;
+}
+
+.biglogotextsecondpart div p:nth-of-type(1) {
+    margin-bottom: 6px;
+}
+
+.biglogotextthirdpart {
+    margin-top: 43px;
+    display: flex;
+}
+
+.biglogotextthirdpart img {
+    margin-right: 20px;
+    width: 50px;
+    height: 50px;
+}
+
+.biglogotextthirdpart div p {
+    color: white;
+    text-align: justify;
+}
+
+.biglogotextthirdpart div p:nth-of-type(1) {
+    margin-bottom: 6px;
+}

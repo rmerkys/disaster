@@ -1,0 +1,37 @@
+.socialmedia {
+    width: 1400px;
+    height: 105px;
+    background: #FFFFFF;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;    
+}
+
+.socialmediatext p:nth-of-type(1) {
+    margin-left: 151px;
+    font-size: 20px;
+    color: #333333;
+}
+
+.socialmediatext p:nth-of-type(2) {
+    width: 394px;
+    height: 38px;
+    margin-left: 151px;
+    font-size: 14px;
+    color: #86878B;
+}
+
+.wireless1 {
+    width: 30px;
+    height: 30px;
+    transform: rotate(45deg);
+}
+
+.socialmediaimg {
+    margin-right: 158px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 100px;
+}

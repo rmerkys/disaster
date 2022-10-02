@@ -1,0 +1,31 @@
+nav {
+    margin: auto;
+    width: 1400px;
+    height: 72px;
+    background: #1C1C1C;
+    display: flex;
+    justify-content: space-between;
+}
+
+.brandlogo1 {
+    margin-top: 10px;
+    margin-left: 147px;
+    width: 119px;
+    height: 52px;
+}
+
+.navbarlinks {
+    margin-top: 26px;
+    margin-right: 148px;
+    width: 444px;
+    height: 35px;
+    display: flex;
+    justify-content: space-between;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    opacity: 0.69;
+    font-size: 14px;
+}
